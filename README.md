@@ -82,3 +82,7 @@ To build a **data-driven model** that predicts crop yield using various independ
 Make sure you have Python installed along with these dependencies:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn jupyter
+```
+Clone this repository:
+   ```bash
+   git clone https://github.com/TarunSingh1803/Machine-Learning-Project-Sem7.git
